@@ -1,1 +1,2 @@
-# pandas_practice: in this file i start by Introduction to Pandas then contine by pandas libraries.
+# pandas_practice
+"In this file, I start with an introduction to Pandas, then continue with an explanation of Pandas libraries. I read a sample dataset and perform descriptive statistics, such as checking for missing values."
